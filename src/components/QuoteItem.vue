@@ -263,7 +263,7 @@ div.lastbest span {
   text-decoration: underline;
 }
 p.product {
-  font-size: 15px;
+  font-size: 14px;
   color: #7d7d7d;
   font-weight: 600;
 }
